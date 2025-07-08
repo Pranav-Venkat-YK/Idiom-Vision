@@ -1,0 +1,7 @@
+streamlit==1.34.0
+torch>=2.0.0
+transformers==4.41.1
+Pillow==10.3.0
+sentence-transformers==2.6.1
+scikit-learn==1.5.0
+requests==2.32.3
